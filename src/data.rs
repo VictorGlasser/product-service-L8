@@ -19,10 +19,10 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
         },
         Product {
             id: 3,
-            name: "Mermaid's Mice Trio".to_string(),
-            price: 12.99,
-            description: "Entertain your kitty with the Mermaid's Mice Trio. These adorable plush mice are dressed as mermaids and filled with catnip to captivate their curiosity.".to_string(),
-            image: "/mermaid.jpg".to_string()
+            name: "Logitech MX Master 2S Bluetooth Laser Mouse - Graphite".to_string(),
+            price: 99.99,
+            description: "Enjoy ultimate speed and precision with this Logitech MX Master 2S Bluetooth laser mouse. It features Darkfield tracking technology that offers high-precision cursor control on almost any surface.".to_string(),
+            image: "/blackmouse.jpg".to_string()
         },
         Product {
             id: 4,
