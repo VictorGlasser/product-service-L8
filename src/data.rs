@@ -7,15 +7,15 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
             id: 1,
             name: "Turtle Beach VelocityOne Racing Wheel & Pedal System".to_string(),
             price: 99.99,
-            description: "Race wheel & pedal system is a high-performance racing peripheral designed for use with Xbox and PC gaming platforms. With race-inspired controls and ultra-realistic K: Drive force feedback motor, it delivers an immersive and realistic racing experience. It also includes smooth Mag-Shift paddles for seamless gear changes.".to_string(),
+            description: "Race wheel & pedal system is a high-performance racing peripheral designed for use with Xbox and PC gaming platforms. With race-inspired controls and ultra-realistic K: Drive force feedback motor, it delivers an immersive and realistic racing experience.".to_string(),
             image: "/steeringwheel.png".to_string()
         },
         Product {
             id: 2,
-            name: "Salty Sailor's Squeaky Squid".to_string(),
-            price: 6.99,
-            description: "Let your dog set sail with the Salty Sailor's Squeaky Squid. This interactive toy provides hours of fun, featuring multiple squeakers and crinkle tentacles.".to_string(),
-            image: "/squid.jpg".to_string()
+            name: "Logitech G305 12000 DPI Wireless Optical Gaming Mouse - White".to_string(),
+            price: 39.99,
+            description: "Experience next-level gaming with the Logitech G305 wireless optical mouse. It features a HERO sensor with up to 12,000dpi for ultra-precise tracking and LIGHTSPEED wireless technology that delivers a 1ms response time.".to_string(),
+            image: "/whitemouse.png".to_string()
         },
         Product {
             id: 3,
