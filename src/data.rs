@@ -5,10 +5,10 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
     vec![
         Product {
             id: 1,
-            name: "Contoso Catnip's Friend".to_string(),
-            price: 9.99,
-            description: "Watch your feline friend embark on a fishing adventure with Contoso Catnip's Friend toy. Packed with irresistible catnip and dangling fish lure.".to_string(),
-            image: "/catnip.jpg".to_string()
+            name: "Turtle Beach VelocityOne Racing Wheel & Pedal System".to_string(),
+            price: 99.99,
+            description: "Race wheel & pedal system is a high-performance racing peripheral designed for use with Xbox and PC gaming platforms. With race-inspired controls and ultra-realistic K: Drive force feedback motor, it delivers an immersive and realistic racing experience. It also includes smooth Mag-Shift paddles for seamless gear changes.".to_string(),
+            image: "/steeringwheel.png".to_string()
         },
         Product {
             id: 2,
