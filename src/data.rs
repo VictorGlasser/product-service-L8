@@ -19,31 +19,31 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
         },
         Product {
             id: 3,
-            name: "Logitech MX Master 2S Bluetooth Laser Mouse - Graphite".to_string(),
+            name: "Logitech Black Wireless Mouse".to_string(),
             price: 99.99,
             description: "Enjoy ultimate speed and precision with this Logitech MX Master 2S Bluetooth laser mouse. It features Darkfield tracking technology that offers high-precision cursor control on almost any surface.".to_string(),
             image: "/blackmouse.jpg".to_string()
         },
         Product {
             id: 4,
-            name: "Logitech G203 LIGHTSYNC 8000 DPI Optical Gaming Mouse - Black".to_string(),
+            name: "Logitech Black Wired Mouse".to_string(),
             price: 27.99,
             description: "Level up your game with the Logitech G203 LIGHTSYNC optical gaming mouse. Featuring an 8,000dpi gaming-grade sensor and five adjustable sensitivity levels, it delivers fast, precise tracking and versatile performance.".to_string(),
             image: "/blackmousewired.jpg".to_string()
         },
         Product {
             id: 5,
-            name: "Logitech M220 Silent 1000 DPI Wireless Optical Mouse - Rose".to_string(),
+            name: "Logitech Pink Mouse".to_string(),
             price: 24.99,
             description: "Smooth and noiseless, the Logitech M220 Silent 1000 DPI mouse is an excellent pick for your laptop. This wireless mouse comes with 18 months of battery life and 10m wireless range having compatibility with Windows, Mac, and other devices.".to_string(),
             image: "/pinkwiredmouse.jpg".to_string()
         },
         Product {
             id: 6,
-            name: "Seafarer's Tug Rope".to_string(),
+            name: "Ergonomic Black Mouse".to_string(),
             price: 14.99,
-            description: "".to_string(),
-            image: "/tug.jpg".to_string()
+            description: "The Rapoo MT760 Multi-Device Wireless Mouse features Bluetooth 5.0/3.0 and 2.4GHz tri-mode connectivity, enabling seamless switching between multiple devices.".to_string(),
+            image: "/ergonomicblackmouse.jpg".to_string()
         },
         Product {
             id: 7,
