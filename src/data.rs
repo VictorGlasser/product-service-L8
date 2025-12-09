@@ -26,23 +26,23 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
         },
         Product {
             id: 4,
-            name: "Ocean Explorer's Puzzle Ball".to_string(),
-            price: 11.99,
-            description: "Challenge your pet's problem-solving skills with the Ocean Explorer's Puzzle Ball. This interactive toy features hidden compartments and treats, providing mental stimulation and entertainment.".to_string(),
-            image: "/ocean.jpg".to_string()
+            name: "Logitech G203 LIGHTSYNC 8000 DPI Optical Gaming Mouse - Black".to_string(),
+            price: 27.99,
+            description: "Level up your game with the Logitech G203 LIGHTSYNC optical gaming mouse. Featuring an 8,000dpi gaming-grade sensor and five adjustable sensitivity levels, it delivers fast, precise tracking and versatile performance.".to_string(),
+            image: "/blackmousewired.jpg".to_string()
         },
         Product {
             id: 5,
-            name: "Pirate Parrot Teaser Wand".to_string(),
-            price: 8.99,
-            description: "Engage your cat in a playful pursuit with the Pirate Parrot Teaser Wand. The colorful feathers and jingling bells mimic the mischievous charm of a pirate's parrot.".to_string(),
-            image: "/pirate.jpg".to_string()
+            name: "Logitech M220 Silent 1000 DPI Wireless Optical Mouse - Rose".to_string(),
+            price: 24.99,
+            description: "Smooth and noiseless, the Logitech M220 Silent 1000 DPI mouse is an excellent pick for your laptop. This wireless mouse comes with 18 months of battery life and 10m wireless range having compatibility with Windows, Mac, and other devices.".to_string(),
+            image: "/pinkwiredmouse.jpg".to_string()
         },
         Product {
             id: 6,
             name: "Seafarer's Tug Rope".to_string(),
             price: 14.99,
-            description: "Tug-of-war meets nautical adventure with the Seafarer's Tug Rope. Made from marine-grade rope, it's perfect for interactive play and promoting dental health in dogs.".to_string(),
+            description: "".to_string(),
             image: "/tug.jpg".to_string()
         },
         Product {
