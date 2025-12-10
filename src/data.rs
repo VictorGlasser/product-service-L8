@@ -50,28 +50,28 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
             name: "Mesh Loop for Apple Watch Band".to_string(),
             price: 9.99,
             description: "Premium stainless steel mesh loop band compatible with Apple Watch Ultra3, SE3, Series 11–1 in sizes 38mm–49mm. Features one-piece design, breathable sweat-proof mesh, and a powerful magnetic clasp for secure fit.".to_string(),
-            image: "/meshwatchband.jpg".to_string()
+            image: "/meshwatchband.jpeg".to_string()
         },
         Product {
             id: 8,
             name: "Leather Magnetic Link Replacement Band Strap for Apple Watch".to_string(),
             price: 12.97,
-            description: "[CSmart] Leather Magnetic Link Replacement Band Strap for Apple Watch iWatch Series 1 to 10 SE Ultra, 42mm(Series 123) 44mm 45mm 46mm 49mm, Purple".to_string(),
-            image: "/leatherwatchband.jpg".to_string()
+            description: "Leather Magnetic Link Replacement Band Strap for Apple Watch iWatch Series 1 to 10 SE Ultra, 42mm(Series 123) 44mm 45mm 46mm 49mm, Purple".to_string(),
+            image: "/leatherwatchband.jpeg".to_string()
         },
         Product {
             id: 9,
             name: "Instant Pot Duo V5 7-in-1 Pressure Cooker - 6QT".to_string(),
             price: 89.99,
             description: "Cook delicious dishes for the whole family with the Instant Pot Duo V5 pressure cooker. This seven-in-one cooker is quick and easy to use, with access to functions like rice cooking, slow cooking, yogurt making, and steaming, plus 13 customizable options.".to_string(),
-            image: "/pot.jpg".to_string()
+            image: "/pot.jpeg".to_string()
         },
         Product {
             id: 10,
             name: "Philips 2000 Series Air Fryer - 4.2L (4.4QT) - Black".to_string(),
             price: 69.99,
             description: "Effortlessly cook delicious and healthy recipes with the Philips 2000 series air fryer. This 4.2L appliance features 13 cooking functions like air fry, bake, grill, roast, defrost, reheat, and more to let you prepare a variety of dishes.".to_string(),
-            image: "/lifejacket.jpg".to_string()
+            image: "/fryer.jpg".to_string()
         }
     ]
 }
