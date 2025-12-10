@@ -43,7 +43,7 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
             name: "Rapoo MT760 Multi-Device Wireless Mouse".to_string(),
             price: 14.99,
             description: "The Rapoo MT760 Multi-Device Wireless Mouse features Bluetooth 5.0/3.0 and 2.4GHz tri-mode connectivity, enabling seamless switching between multiple devices.".to_string(),
-            image: "/ergonomicblackmouse.jpg".to_string()
+            image: "/ergonomicblackmouse.jpeg".to_string()
         },
         Product {
             id: 7,
@@ -64,7 +64,7 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
             name: "Instant Pot Duo V5 7-in-1 Pressure Cooker - 6QT".to_string(),
             price: 89.99,
             description: "Cook delicious dishes for the whole family with the Instant Pot Duo V5 pressure cooker. This seven-in-one cooker is quick and easy to use, with access to functions like rice cooking, slow cooking, yogurt making, and steaming, plus 13 customizable options.".to_string(),
-            image: "/pot.jpeg".to_string()
+            image: "/pot.jpg".to_string()
         },
         Product {
             id: 10,
